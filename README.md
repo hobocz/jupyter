@@ -11,5 +11,3 @@
 [Tech stocks analysis part 1](https://nbviewer.org/github/hobocz/jupyter/blob/c84f8c2840373bfabf2cc518d9198aaba25fd3d2/stock_analysis_1.ipynb)
 
 [Tech stocks analysis part 2](https://nbviewer.org/github/hobocz/jupyter/blob/c84f8c2840373bfabf2cc518d9198aaba25fd3d2/stock_analysis_2.ipynb)
-
-[Tech stocks analysis part 3](https://nbviewer.org/github/hobocz/jupyter/blob/c84f8c2840373bfabf2cc518d9198aaba25fd3d2/stock_analysis_3.ipynb)
